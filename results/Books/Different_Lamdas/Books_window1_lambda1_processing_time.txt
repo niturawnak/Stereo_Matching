@@ -1,0 +1,3 @@
+Naive: 5.76577 seconds
+Dynamic Programming: 71.2651 seconds
+StereoBM: 0.0186207 seconds
